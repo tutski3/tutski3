@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tutski3
-- 👀 I’m interested in getting my life easier
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in tensorflow, h2o.ai
+- 🌱 I’m currently learning how to cross different dimensions
 - 💞️ I’m looking to collaborate on Web application projects
 - 📫 How to reach me [joseph.tusay123@gmail.com](url)
 
